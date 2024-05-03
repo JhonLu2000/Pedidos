@@ -46,8 +46,8 @@ flex-direction: column;
 <div class="col-md-6">
 <h1 class="title">Lenico comercializadora</h1>
 <h4>Batamo T Shampoo nace en el Puerto de Guaymas, Sonora por el Señor León León Santoyo quien en el laboratorio de su farmacia “Súper Farmacia León”, fundada en 1948, creo la formula en el año 2005. La cual puso a la venta disponible para el mercado local.</h4>
-<br />
-<a href="https://www.youtube.com/shorts/QlYXV-LkfYA" class="btn btn-danger btn-raised btn-lg">
+<br>
+<a href="https://www.youtube.com/shorts/QlYXV-LkfYA" class="btn btn-danger btn-raised btn-lg" style="background-color: olivedrab;">
 <i class="fa fa-play"></i> Mirar video
 </a>
 </div>
@@ -60,8 +60,8 @@ flex-direction: column;
 <div class="section text-center section-landing">
 <div class="row">
 <div class="col-md-8 col-md-offset-2">
-<h2 class="title">¿Por qué Lenico?</h2>
-<h5 class="description">Puedes revisar nuestra relación completa de productos, comparar precios y realizar tus pedidos cuando estes seguro.</h5>
+<h2 class="title">Bienvenido a Lenico</h2>
+<h5 class="description">Puedes revisar nuestra relación completa de productos, comparar precios y realizar tus pedidos cuando estes seguro y revisar el seguimiento de tu compra</h5>
 </div>
 </div>
 
@@ -157,8 +157,8 @@ flex-direction: column;
     </div>
 
     <div class="row">
-        <div class="col-md-4 col-md-offset-4 text-center">
-            <button class="btn btn-primary btn-raised">
+        <div class="col-md-4 col-md-offset-4 text-center" >
+            <button class="btn btn-primary btn-raised" style="background-color: olivedrab;">
                 ENVIAR CONSULTA
             </button>
         </div>
